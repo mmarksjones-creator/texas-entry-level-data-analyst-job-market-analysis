@@ -55,13 +55,40 @@ Key fields analyzed included:
 
 ## Key Findings
 
-- Excel appeared in approximately 62% of analyzed job postings.
-- SQL appeared in approximately 61% of analyzed job postings.
-- The average salary across analyzed postings was approximately $66,000.
-- Austin appeared as one of the strongest Texas cities for entry-level analyst opportunities.
-- Most entry-level postings preferred candidates with around 0–2 years of experience.
-- Power BI, reporting, dashboards, and business communication appeared frequently in job descriptions.
+- Analyzed 100+ Texas entry-level data analyst job postings.
+- Austin had the highest number of postings with 27 jobs.
+- Dallas had 16 postings and Houston had 15 postings.
+- The average salary across analyzed postings was approximately $66,510.
+- Excel appeared in 62 postings, making it the most requested skill in the dataset.
+- SQL appeared in 61 postings, making it nearly as important as Excel.
+- Python appeared in 26 postings.
+- 54 postings required 0 years of experience.
+- Most postings required 0–2 years of experience, showing that many roles were truly entry-level.
+  
+- ## SQL Analysis Results
 
+The SQL analysis answered four main questions:
+
+1. Which Texas cities had the most entry-level analyst job postings?
+2. What was the average salary across the dataset?
+3. Which technical skills appeared most often?
+4. How much experience did most entry-level postings require?
+
+### City Demand Results
+
+Austin had the highest number of job postings, followed by Dallas and Houston.
+
+### Salary Results
+
+The average salary across the analyzed postings was approximately $66,510.
+
+### Skill Demand Results
+
+Excel appeared in 62 postings, SQL appeared in 61 postings, and Python appeared in 26 postings.
+
+### Experience Requirement Results
+
+The largest group of postings required 0 years of experience, with most roles falling between 0–2 years of experience.
 ## Dashboard Features
 
 The dashboard includes:
