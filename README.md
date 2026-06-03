@@ -8,11 +8,13 @@ Entry-level analyst candidates in Texas often don't know which skills, cities, o
 
 ---
 
-## Dashboard preview
+## Dashboards preview
 
 
+### Excel dashboard
+![Excel Dashboard](dashboards/DashBoard%20for%20Data%20analyst%20project%201.png)
 ### Power BI dashboard
-![Power BI Dashboard](dashboards/powerbi-dashboard.png)
+![Power BI Dashboard](dashboards/Texas%20Analyst%20entry%20level%20dashboard%20BI.png)
 
 ---
 
