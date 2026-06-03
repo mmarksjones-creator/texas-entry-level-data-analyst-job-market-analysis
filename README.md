@@ -82,4 +82,4 @@ Based on this analysis, entry-level analyst candidates in Texas should:
 Built by **M'Khi A. Marksjones** — MIS student at Angelo State University, Dean's List Spring 2026.  
 Seeking entry-level analyst roles in Texas (Financial Analyst I, Reporting Analyst, Business Analyst, Data Analyst).
 
-[LinkedIn](www.linkedin.com/in/m-khi-marksjones-447607396) · [GitHub](https://github.com/mmarksjones-creator)
+[LinkedIn](https://www.linkedin.com/in/m-khi-marksjones-447607396) · [GitHub](https://github.com/mmarksjones-creator)
