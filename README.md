@@ -73,7 +73,7 @@ Based on this analysis, entry-level analyst candidates in Texas should:
 - Open `Job Market Data Analyst project 1.xlsx` to see the cleaned dataset, PivotTables, and Excel dashboard
 - Browse the `sql/` folder for all queries used in the analysis
 - View dashboard screenshots in the `dashboards/` folder
-- Power BI dashboard available on request (publish link coming soon)
+- Power BI dashboard available on request (https://app.powerbi.com/links/7Wq2es6y2v?ctid=7cf1d100-35b0-4cec-a70d-9b8bd80b9ad0&pbi_source=linkShare)
 
 ---
 
